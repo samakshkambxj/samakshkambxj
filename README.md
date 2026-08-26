@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Origin Kernel - A custom kernel for Nothing Phone (3a) Lite & CMF Phone 2 Pro<br><br>🌱 I'm currently learning C++<br><br>👯 I'm looking to collaborate on OSS Projects, AOSP ROM building, WEB Development<br><br>💬 Ask me about Android Development, Python, Web Dev<br><br>📫 How to reach me samakshk4@gmail.com<br><br>⚡ Fun fact I'm Batman
+🔭 I'm currently maintaining Origin Kernel - A custom kernel for CMF Phone 1, Nothing Phone (3a) Lite & CMF Phone 2 Pro<br><br>🌱 I'm currently learning C++<br><br>👯 I'm looking to collaborate on OSS Projects, AOSP ROM building, WEB Development<br><br>💬 Ask me about Android Development, Python, Web Dev<br><br>📫 How to reach me samakshk4@gmail.com<br><br>⚡ Fun fact I'm Batman
 
 
 ## 🌐 Socials:
