@@ -1,17 +1,28 @@
-# Welcome to My GitHub Profile! 👋
+# Hi, I'm Samaksh Kamboj 👋
+
+<p align="center">
+  <a href="https://github.com/samakshkambxj"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8957E5&center=true&vCenter=true&width=500&lines=Android+Developer+%E2%80%A2+Kernel+Dev;Low-level.+Performance-driven.;Maintaining+Origin-Kernel+for+Nothing+devices" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <strong>🤖 Android Developer · ⚙️ Kernel Dev · 🌐 Open Source Enthusiast</strong><br>
   <em>Low-level focused. Performance-driven. Always building.</em>
 </p>
 
+<p align="center">
+  <a href="https://samakshkambxj.github.io"><img src="https://img.shields.io/badge/Portfolio-live-8957e5?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/samakshkambxj?tab=repositories"><img src="https://img.shields.io/badge/Repositories-public-1e1e2e?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+  <a href="https://t.me/veyn64"><img src="https://img.shields.io/badge/Telegram-veyn64-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=samakshkambxj&color=8957e5&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-Hi! I'm **Samaksh Kamboj**, known as **samakshkambxj** in the digital world. I'm an Android developer and kernel dev who loves living close to the hardware — custom kernels, device trees, and root solutions. I blend low-level C work with Python automation and web tooling.
+I'm **Samaksh Kamboj** (**@samakshkambxj**) — Android / kernel developer based in **India** 🇮🇳.
 
-Currently based in **India** 🇮🇳 and maintaining **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** — a feature-rich custom kernel for Mediatek-based Nothing devices.
+I live close to the hardware: custom kernels, device trees, and root tooling, with Python automation and web tooling to tie it together. Currently maintaining **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** — a feature-rich custom kernel for Mediatek-based Nothing devices.
 
 ---
 
@@ -25,10 +36,10 @@ Currently based in **India** 🇮🇳 and maintaining **[Origin-Kernel](https://
 
 ## 📈 My Development Journey
 
-- **Start** · Got hooked on Android customization — rooting, custom ROMs, and tweaking everything possible
-- **Deep dive** · Learned C, C++ and Python by digging into kernels, build scripts, and automation
-- **Kernel era** · Started building and maintaining custom kernels, working with device trees, vendor blobs, and kernel modules
-- **Now** · Maintaining **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** for Nothing devices (MT6878, 6.1) + device trees like `device_nothing_Galaxian` for the Nothing Phone (3a) Lite, Dolby ports, and KernelSU / root tooling
+- **Start** · Hooked on Android customization — rooting, custom ROMs, tweaking everything
+- **Deep dive** · Learned C, C++ and Python through kernels, build scripts, and automation
+- **Kernel era** · Building custom kernels — device trees, vendor blobs, kernel modules
+- **Now** · Maintaining **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** (Nothing MT6878, 6.1) + `device_nothing_Galaxian`, Dolby ports, and KernelSU tooling
 
 ---
 
@@ -36,11 +47,9 @@ Currently based in **India** 🇮🇳 and maintaining **[Origin-Kernel](https://
 
 - ⚙️ **Clean kernel architecture** — performance, battery, and stability first
 - 📱 **Android internals** — device trees, HALs, sepolicy, vendor integration
-- 🛠️ **Build automation** — scripts and CI that make kernel builds reproducible
-- 🔓 **Root ecosystem** — KernelSU, ReSukiSU, SUSFS, and custom recoveries (TWRP / OrangeFox)
-- 🌐 **Open source** — maintaining in the open, learning from NothingOSS, LineageOS and the community
-- 🎮 **Gaming** — Steam, Epic, Riot, PlayStation when I'm not flashing something
-- 🦇 **Batman stuff** — yes, really
+- 🛠️ **Reproducible builds** — scripts and CI, no black-box builds
+- 🔓 **Root ecosystem** — KernelSU-Next, ReSukiSU, SUSFS, TWRP / OrangeFox
+- 🌐 **Open source** — building in the open on top of NothingOSS / LineageOS
 
 ---
 
@@ -76,64 +85,39 @@ Currently based in **India** 🇮🇳 and maintaining **[Origin-Kernel](https://
 
 </details>
 
-<details>
-<summary>🎮 Gaming Platforms</summary>
-
-[![Steam](https://img.shields.io/badge/Steam-1e1e2e?style=for-the-badge&logo=steam&logoColor=FFFFFF)](https://store.steampowered.com/)
-[![Epic Games](https://img.shields.io/badge/Epic_Games-1e1e2e?style=for-the-badge&logo=epicgames&logoColor=FFFFFF)](https://www.epicgames.com/)
-[![Riot Games](https://img.shields.io/badge/Riot_Games-1e1e2e?style=for-the-badge&logo=riotgames&logoColor=EB0029)](https://www.riotgames.com/)
-[![PlayStation](https://img.shields.io/badge/PlayStation-1e1e2e?style=for-the-badge&logo=playstation&logoColor=0070D1)](https://www.playstation.com/)
-
-</details>
-
-> 💡 I'm most at home in kernel trees, terminals, and build logs — C, Kbuild, and shell scripts are where I do my best work. I can ship polished web UIs too (like my portfolio and dashboard projects), but what really excites me is squeezing performance and battery life out of real hardware.
+> 💡 Most at home in kernel trees, terminals, and build logs — C, Kbuild, and shell. I ship polished web UIs too (portfolio, dashboard projects), but performance + battery life on real hardware is what excites me.
 
 ---
 
 ## ⚙️ Kernel Build Environment
 
-I build and test everything with reproducible toolchains and versioned device trees — no mystery blobs, no black-box builds.
+Reproducible toolchains, versioned trees, public forks — no mystery blobs.
 
-### 🔧 What I Work With
-- 📱 **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** — custom kernel for Nothing MT6878 devices (based on `android_kernel_6.1_nothing_mt6878`)
-- 🌳 **Device trees** — `device_nothing_Galaxian` (Nothing Phone 3a Lite), Tetris / Galaga trees, vendor + kernel prebuilts
-- 🔊 **[hardware_dolby](https://github.com/samakshkambxj/hardware_dolby)** — Dolby Atmos stack ported for Nothing Phone (3a) Lite
-- 🔓 **Root & recovery** — KernelSU-Next, ReSukiSU, GKI + SUSFS builds, TWRP / OrangeFox builders
-
-All device-specific work is tracked in public repos with clear forks from NothingOSS / LineageOS upstreams.
+- 📱 **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** — custom kernel for Nothing MT6878 devices (`android_kernel_6.1_nothing_mt6878`)
+- 🌳 **Device trees** — `device_nothing_Galaxian` (Phone 3a Lite), Tetris / Galaga trees, vendor + kernel prebuilts
+- 🔊 **[hardware_dolby](https://github.com/samakshkambxj/hardware_dolby)** — Dolby Atmos stack for Phone (3a) Lite
+- 🔓 **Root & recovery** — KernelSU-Next, ReSukiSU, GKI + SUSFS, TWRP / OrangeFox builders
 
 ---
 
 ## 🎯 Current Projects
 
-### 🚀 Active Development
-
 | Project | Description | Status |
 |---------|-------------|---------|
-| **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** | Feature-rich custom kernel for Mediatek-based Nothing devices | ✅ Maintained |
-| **[device_nothing_Galaxian](https://github.com/samakshkambxj/device_nothing_Galaxian)** | Device tree for the Nothing Phone (3a) Lite | ✅ Maintained |
+| **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** | Performance-tuned, battery-aware custom kernel for Nothing MT6878 · upstream-tracked, root-ready | ✅ Maintained |
+| **[device_nothing_Galaxian](https://github.com/samakshkambxj/device_nothing_Galaxian)** | Device tree for Nothing Phone (3a) Lite | ✅ Maintained |
 | **[hardware_dolby](https://github.com/samakshkambxj/hardware_dolby)** | Dolby Atmos stack ported for Nothing Phone (3a) Lite | ✅ Maintained |
 | **[samakshkambxj.github.io](https://github.com/samakshkambxj/samakshkambxj.github.io)** | Personal portfolio — HTML, Tailwind, Flowbite | ✅ Live |
-| **[github-dashboard](https://github.com/samakshkambxj/github-dashboard)** | Polished, modern GitHub developer dashboard | 🚧 In progress |
-
-#### Origin-Kernel Features:
-- ⚡ **Performance-tuned** — built for daily driving, not just benchmarks
-- 🔋 **Battery-aware** — sensible defaults, no reckless overclocks
-- 🌳 **Upstream-based** — tracked against NothingOSS 6.1 MT6878 sources
-- 🔓 **Root-ready** — tested with KernelSU-Next / ReSukiSU + SUSFS
-- 📱 **Device-focused** — Galaxian / Tetris / Galaga family in mind
+| **[github-dashboard](https://github.com/samakshkambxj/github-dashboard)** | Modern GitHub developer dashboard | 🚧 In progress |
 
 ---
 
 ## 🌟 Open Source Focus
 
-I believe in building in the open and giving credit upstream:
-
-- ⚙️ **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** — maintaining + feature work on top of NothingOSS
-- 🌳 **Device trees & vendor** — Galaxian, Tetris, Galaga trees, vendor blobs, kernel modules
-- 🔊 **Dolby ports** — bringing up audio stacks for unsupported devices
-- 🔓 **KernelSU ecosystem** — tracking KernelSU-Next, ReSukiSU, SukiSU-Ultra, GKI + SUSFS builders
-- 🛠️ **Recovery builders** — TWRP / OrangeFox / PBRP / SHRP automation forks
+- ⚙️ **Origin-Kernel** — feature work + maintenance on top of NothingOSS
+- 🌳 **Device trees & vendor** — Galaxian / Tetris / Galaga, blobs, kernel modules
+- 🔊 **Dolby ports** — audio stacks for unsupported devices
+- 🔓 **KernelSU ecosystem** — KernelSU-Next, ReSukiSU, SukiSU-Ultra, GKI + SUSFS
 
 ---
 
@@ -156,24 +140,23 @@ I believe in building in the open and giving credit upstream:
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=1793D1)](https://archlinux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-1e1e2e?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 
-> ⚙️ *Linux for kernel builds, Windows for daily use + gaming, Android for testing — right tool for the job.*
+> ⚙️ *Linux for kernel builds, Windows for daily use + gaming, Android for testing.*
 
 ---
 
 ## 🌐 Connect With Me
 
-### 🔗 Main Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logoColor=FFFFFF)](https://samakshkambxj.github.io)
-[![Repositories](https://img.shields.io/badge/Repositories-1e1e2e?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/samakshkambxj?tab=repositories)
-[![Telegram](https://img.shields.io/badge/Telegram-1e1e2e?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/veyn64)
+<p align="center">
+  <a href="https://samakshkambxj.github.io"><img src="https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/samakshkambxj?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1e1e2e?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://t.me/veyn64"><img src="https://img.shields.io/badge/Telegram-1e1e2e?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
+  <a href="https://instagram.com/_absolutely.samaksh"><img src="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://x.com/samakshk4"><img src="https://img.shields.io/badge/X-1e1e2e?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
-### 📱 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/_absolutely.samaksh)
-[![X](https://img.shields.io/badge/X-1e1e2e?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/samakshk4)
-
-### 📧 Contact
-- **Email**: samakshk4@gmail.com
-- **Telegram**: [@veyn64](https://t.me/veyn64)
+<p align="center">
+  📧 <strong>samakshk4@gmail.com</strong> · ✈️ <a href="https://t.me/veyn64">@veyn64</a>
+</p>
 
 ---
 
@@ -182,6 +165,8 @@ I believe in building in the open and giving credit upstream:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samakshkambxj&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophy" />
   <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samakshkambxj&theme=dracula&hide_border=false" alt="Streak" />
+  <br><br>
   <img src="https://raw.githubusercontent.com/samakshkambxj/samakshkambxj/stats-output/stats.svg" alt="Stats" />
   <br><br>
   <img src="https://raw.githubusercontent.com/samakshkambxj/samakshkambxj/languages-output/languages.svg" alt="Top Languages" />
@@ -189,23 +174,15 @@ I believe in building in the open and giving credit upstream:
 
 ---
 
-## 🕸️ Side Interests (Still Close to My Heart)
+## 🕸️ Beyond Code
 
-- 🎮 **Gaming setups & configs** — Steam / Epic / Riot / PSN loadouts
-- 🌐 **Web experiments** — portfolio site, GitHub dashboard, small JS tools
-- 🦇 **Batman lore** — fun fact: I'm Batman
+🎮 Steam / Epic / Riot / PSN · 🌐 Portfolio + dashboard experiments · 🦇 Batman lore — fun fact: I'm Batman
 
-> 📁 You can explore more of my work in my [Repositories](https://github.com/samakshkambxj?tab=repositories)
+> 📁 Explore more in my [Repositories](https://github.com/samakshkambxj?tab=repositories)
 
 ---
 
 <p align="center">
-  💬 <em>Thanks for visiting! Whether you're here for kernels, device trees, or just to vibe — you're welcome.</em><br><br>
+  💬 <em>Thanks for visiting! Kernels, device trees, or just to vibe — you're welcome.</em><br><br>
   🚀 <strong>Let's build fast, stable, open-source things!</strong>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samakshkambxj&color=8957e5&style=for-the-badge" alt="Profile Views" />
 </p>
