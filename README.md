@@ -96,7 +96,7 @@ Reproducible toolchains, versioned trees, public forks — no mystery blobs.
 - 📱 **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** — custom kernel for Nothing MT6878 devices (`android_kernel_6.1_nothing_mt6878`)
 - 🌳 **Device trees** — `device_nothing_Galaxian` (Phone 3a Lite), Tetris / Galaga trees, vendor + kernel prebuilts
 - 🔊 **[hardware_dolby](https://github.com/samakshkambxj/hardware_dolby)** — Dolby Atmos stack for Phone (3a) Lite
-- 🔓 **Root & recovery** — KernelSU-Next, ReSukiSU, GKI + SUSFS, TWRP / OrangeFox builders
+- 🔓 **Root & recovery** — [OriginSU](https://github.com/samakshkambxj/OriginSU), KernelSU-Next, ReSukiSU, GKI + SUSFS, TWRP / OrangeFox builders
 
 ---
 
@@ -104,6 +104,7 @@ Reproducible toolchains, versioned trees, public forks — no mystery blobs.
 
 | Project | Description | Status |
 |---------|-------------|---------|
+| **[OriginSU](https://github.com/samakshkambxj/OriginSU)** | ReSukiSU fork tuned for Origin Kernel — extra features + cosmetics | ✅ Maintained |
 | **[Origin-Kernel](https://github.com/samakshkambxj/Origin-Kernel)** | Performance-tuned, battery-aware custom kernel for Nothing MT6878 · upstream-tracked, root-ready | ✅ Maintained |
 | **[device_nothing_Galaxian](https://github.com/samakshkambxj/device_nothing_Galaxian)** | Device tree for Nothing Phone (3a) Lite | ✅ Maintained |
 | **[hardware_dolby](https://github.com/samakshkambxj/hardware_dolby)** | Dolby Atmos stack ported for Nothing Phone (3a) Lite | ✅ Maintained |
@@ -117,7 +118,7 @@ Reproducible toolchains, versioned trees, public forks — no mystery blobs.
 - ⚙️ **Origin-Kernel** — feature work + maintenance on top of NothingOSS
 - 🌳 **Device trees & vendor** — Galaxian / Tetris / Galaga, blobs, kernel modules
 - 🔊 **Dolby ports** — audio stacks for unsupported devices
-- 🔓 **KernelSU ecosystem** — KernelSU-Next, ReSukiSU, SukiSU-Ultra, GKI + SUSFS
+- 🔓 **KernelSU ecosystem** — [OriginSU](https://github.com/samakshkambxj/OriginSU), KernelSU-Next, ReSukiSU, SukiSU-Ultra, GKI + SUSFS
 
 ---
 
